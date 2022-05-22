@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Islom Rakhimkulov
-A front-end developer from Uzbekistan
+Frontend developer from Karshi, Uzbekistan
 <!--
 **islomrakhimkulov/islomrakhimkulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
