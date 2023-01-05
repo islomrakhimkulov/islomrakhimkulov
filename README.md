@@ -1,6 +1,6 @@
 <h1 align="left">Hi there👋, My name is Islom</h1>
 <h3 align="left">Frontend developer from Uzbekistan</h3>
-- 📫 How to reach me **islomraximqulov448@gmail.com**
+- 📫 How to reach me: <a href="mailto:islomraximqulov448@gmail.com" target="_blank"> islomraximqulov448@gmail.com**</a>
 
 <p align="left">
 </p>
