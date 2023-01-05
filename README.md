@@ -1,8 +1,5 @@
-<h1 align="center">Hi there👋, I'm Islom</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-
-- 🌱 I’m currently learning **Nuxt.JS**
-
+<h1 align="left">Hi there👋, I'm Islom</h1>
+<h3 align="center">Frontend developer from Uzbekistan</h3>
 - 📫 How to reach me **islomraximqulov448@gmail.com**
 
 <p align="left">
